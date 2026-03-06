@@ -1,3 +1,3 @@
 # My Git Training
 
-This is a test
+This is a test.
