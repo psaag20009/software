@@ -1,4 +1,5 @@
 import pytest
+
 from calculator import Calculator
 
 def test_add():
