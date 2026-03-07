@@ -19,6 +19,8 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+        working-directory: main
 
       - name: Run tests
         run: pytest test_calculator.py -v
+        working-directory: main
